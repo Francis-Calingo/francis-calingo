@@ -57,13 +57,14 @@
 <div id=" TECH STACK ">
   <h2>💻 TECH STACK 💻</h2>
   <div id="badges" align="center">
-    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Badge"/>
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge"/>
-    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
+    <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=plastic" alt="SciPy Badge"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=plastic" alt="scikit-learn Badge"/>
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=plastic" alt="Plotly Badge"/>
+    <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=plastic" alt="Pandas Badge"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic" alt="NumPy Badge"/>
+    <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=fff&style=plastic" alt="ArcGIS Badge"/>
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib Badge"/>
     <img src="https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=aquagreen" alt="Seaborn Badge"/>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MicrosoftSQLServer Badge"/>
