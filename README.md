@@ -41,6 +41,8 @@
   <h3>Ongoing:</h3>
   <ul>
      <li>Certificate Program, Data Science // University of Waterloo, Remote</li>
+     <li>DataTalent Upskilling Program // M2M Tech, Remote</li>
+     <li>Specialization, GIS, Mapping, and Spatial Analysis // University of Toronto, Remote (via Coursera)</li>
   </ul>
 
 
