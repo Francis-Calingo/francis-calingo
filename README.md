@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <h1>Hello, welcome to Francis' GitHub! 👋</h1>
-  <p>Greetings, reader! My name is Francis Emmanuel Calingo, and I'm an aspiring to parlay my data skills and experience towards the realm of public policy. I am driven to play a key role in the push to make data science an integral part of public policy decision making. Research on and implementation of public policies involve processing of and analyzing large quantites of data. The use and misuse of it (whether by design or unintentional) can have serious and transformative consequences (for the better or for the worse) on millions of lives and livelihoods. We've seen how much of an impact data science has had on sectors such as the tech industry and business, highlighted by the exponential growth of generative AI. That kind of impact can also be possible in the realm of public policy, it's about time that we harness the power of data science to help contribute to people-driven policies.</p>
+  <p>Greetings, reader! My name is Francis Emmanuel Calingo, and I'm an aspiring to parlay my data skills and experience towards the realm of public policy, specifically with regards to demoghraphics and socioeconomic data on vulnerable communities. Having graduated with a Mathematics and Statistics degree a few years ago, my professional and community-based volunteer experiences, alongside my supplementary learning post-graduation and the completion of several personal projects, demonstrate that I not only posesses the skills to succeed in a data role focused on public policy, but also proves that being in that specific role is core to my career and life goals. </p>
+  
+<p>I am driven to play a key role in the push to make data science an integral part of public policy decision making. Research on and implementation of public policies involve processing of and analyzing large quantites of data. The use and misuse of it (whether by design or unintentional) can have serious and transformative consequences (for the better or for the worse) on millions of lives and livelihoods. We've seen how much of an impact data science has had on sectors such as the tech industry and business, highlighted by the exponential growth of generative AI. That kind of impact can also be possible in the realm of public policy, it's about time that we harness the power of data science to help contribute to people-driven policies.</p>
+
+<p>I currently seek opportunities, whether in academia, professional settings, internship programs, or freelance, that is conducive of my goal of socioeconomic and demographic research and applying data science techniques in order to ascertain valuable insights for policymakers.</p>
+
 </div>
 
 <div id="badges" align="center">
@@ -24,7 +29,8 @@
     <li>Pronouns: He/Him</li>
     <li>Location: Tkaronto (Toronto), Canada</li>
     <li>Hometown: Pasig, Philippines</li>
-    <li>Interests: Filipinx Youth Activism, Decolonization Discourses, Gym Workouts, Drawing, Lifelong Learning, Animals, Sports</li>
+    <li>Research Interests: Demographics, Socioeconomic Inequities, Migration Politics, Filipino Diaspora, Philippine Languages, Spatial Analysis, Data Visualization, Machine Learning, Predictive Modelling, Filipino Youth Activism, Decolonization Discourses, Indigenous Perspectives</li>
+    <li>Other Interests: Gym Workouts, Drawing, Lifelong Learning, Animals, Sports</li>
   </ul>
 
 <div id="🎓 EDUCATION 🎓">
