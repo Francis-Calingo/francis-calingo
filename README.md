@@ -42,7 +42,7 @@
       <li>Final year GPA: 7.0/9.0</li>
       <li>Relevant coursework: Linear Algebra, Integral Calculus, Differential Calculus, Mathematical Statistics, Mathematical Modelling, Applied Categorical Data Analysis</li>
     </ul>
-    <li>Specialization, GIS, Mapping, and Spatial Analysis // University of Toronto, Remote (via Coursera)</li>
+    <li>Specialization, GIS, Mapping, and Spatial Analysis // University of Toronto, Remote via Coursera (Completed January 2025)</li>
     <li>Certificate, Explore Program-French As A Second Language // Collège La Cité, Ottawa, ON, Canada (Completed July 2022)</li>
     </ul>
   <h3>Ongoing:</h3>
