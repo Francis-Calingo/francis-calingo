@@ -6,6 +6,8 @@
 
 <p>I currently seek opportunities, whether in academia, professional settings, internship programs, or freelance, that is conducive of my goal of socioeconomic and demographic research and applying data science techniques in order to ascertain valuable insights for policymakers.</p>
 
+<a href="https://github.com/Francis-Calingo/Table-of-Contents"><b>Please click here to be redirected to the table of contents!</b></a>
+
 </div>
 
 <div id="badges" align="center">
@@ -20,7 +22,10 @@
   </a>
   <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/vizzes">
     <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  <a href="https://spatialnode.net/fe_cali">
+    <img src="https://img.shields.io/badge/Geospatial_Porfolio-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="SpatialNode Badge"/>
   </a>
+
 </div>
 
 <div id="🤓 A LITTLE MORE ABOUT ME 🤓">
@@ -42,13 +47,13 @@
       <li>Final year GPA: 7.0/9.0</li>
       <li>Relevant coursework: Linear Algebra, Integral Calculus, Differential Calculus, Mathematical Statistics, Mathematical Modelling, Applied Categorical Data Analysis</li>
     </ul>
+    <li>DataTalent Upskilling Program // M2M Tech, Remote (Completed February 2025)</li>
     <li>Specialization, GIS, Mapping, and Spatial Analysis // University of Toronto, Remote via Coursera (Completed January 2025)</li>
     <li>Certificate, Explore Program-French As A Second Language // Collège La Cité, Ottawa, ON, Canada (Completed July 2022)</li>
     </ul>
   <h3>Ongoing:</h3>
   <ul>
      <li>Certificate Program, Data Science // University of Waterloo, Remote</li>
-     <li>DataTalent Upskilling Program // M2M Tech, Remote</li>
   </ul>
 
 
