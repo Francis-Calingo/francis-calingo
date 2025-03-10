@@ -6,7 +6,7 @@
 
 <p>I currently seek opportunities, whether in academia, professional settings, internship programs, or freelance, that is conducive of my goal of socioeconomic and demographic research and applying data science techniques in order to ascertain valuable insights for policymakers.</p>
 
-<a href="https://github.com/Francis-Calingo/Table-of-Contents"><b>Please click here to be redirected to the table of contents!</b></a>
+<a href="https://github.com/Francis-Calingo/Table-of-Contents"><b>Please click here to be redirected to my Project Stack!</b></a>
 
 </div>
 
