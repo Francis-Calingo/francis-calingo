@@ -47,13 +47,16 @@
       <li>Final year GPA: 7.0/9.0</li>
       <li>Relevant coursework: Linear Algebra, Integral Calculus, Differential Calculus, Mathematical Statistics, Mathematical Modelling, Applied Categorical Data Analysis</li>
     </ul>
-    <li>DataTalent Upskilling Program // M2M Tech, Remote (Completed February 2025)</li>
-    <li>Specialization, GIS, Mapping, and Spatial Analysis // University of Toronto, Remote via Coursera (Completed January 2025)</li>
+    <li>IBM Data Science Professional Certificate // IBM, Online via Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/S03A5IS9AEA7">(Completed March 2025)</a></li>
+    <li><a href="https://m2mtechconnect.com/programs/datatalent/jobseekers">DataTalent Upskilling Program</a> // M2M Tech, Online (Completed February 2025)</li>
+    <li>Specialization, GIS, Mapping, and Spatial Analysis // University of Toronto, Online via Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UALI76ER4OPO">(Completed January 2025)</a>
+</li>
     <li>Certificate, Explore Program-French As A Second Language // Collège La Cité, Ottawa, ON, Canada (Completed July 2022)</li>
     </ul>
   <h3>Ongoing:</h3>
   <ul>
-     <li>Certificate Program, Data Science // University of Waterloo, Remote</li>
+     <li><a href="https://watspeed.uwaterloo.ca/programs-and-courses/program-data-science.html">Certificate Program, Data Science</a> // University of Waterloo, Remote (Expected May 2025) </li>
+     <li><a href="https://www.coursera.org/professional-certificates/ibm-machine-learning">IBM Machine Learning Professional Certificate</a> // IBM, Online via Coursera (Expected March 2025) </li>
   </ul>
 
 
