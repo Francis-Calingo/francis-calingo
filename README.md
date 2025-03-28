@@ -72,24 +72,40 @@
 
 <div id=" TECH STACK ">
   <h2>💻 TECH STACK 💻</h2>
-  <div id="badges" align="center">
-    <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/>
+  <div id="badges">
+  <h3>Languages</h3>
+    <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/>  
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+
+  <h3>Data Science and Analysis Libraries</h3>
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=plastic" alt="SciPy Badge"/>
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=plastic" alt="scikit-learn Badge"/>
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=plastic" alt="Plotly Badge"/>
     <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=plastic" alt="Pandas Badge"/>
     <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic" alt="NumPy Badge"/>
+
+  <h3>Data Visualization Tools</h3>
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=plastic" alt="Plotly Badge"/>
     <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=fff&style=plastic" alt="ArcGIS Badge"/>
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib Badge"/>
     <img src="https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=aquagreen" alt="Seaborn Badge"/>
+     <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+
+  <h3>Database Management</h3>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MicrosoftSQLServer Badge"/>
     <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
+
+  <h3>IDEs/Code Editors</h3>
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
-    <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
+
+  <h3>Version Control</h3>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
+
+  <h3>Other tools</h3>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva Badge"/>
 </div>
