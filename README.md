@@ -79,11 +79,12 @@
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 
-  <h3>Data Science and Analysis Libraries</h3>
+  <h3>Data Science and Analysis Tools</h3>
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=plastic" alt="SciPy Badge"/>
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=plastic" alt="scikit-learn Badge"/>
     <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=plastic" alt="Pandas Badge"/>
     <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic" alt="NumPy Badge"/>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
   <h3>Data Visualization Tools</h3>
     <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=plastic" alt="Plotly Badge"/>
@@ -107,5 +108,6 @@
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
 
   <h3>Other tools</h3>
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva Badge"/>
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva Badge"/>
 </div>
