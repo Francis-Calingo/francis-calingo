@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello, welcome to Francis' GitHub! 👋</h1>
-  <p>Greetings, reader! My name is Francis Emmanuel Calingo, and I'm an aspiring geospatial data scientist with an undergraduate degree in Applied Mathematics and Statistics. My value lies in being able to transform data into visualizations and comprehensive analysis that I can present to non-technical audiences, my mathematical and statistical intuition when it comes to problem solving, and my domain knowledge in the realm of social science. I currently seek opportunities, whether in academia, professional settings, internship programs, or freelance, that is conducive of my goal of socioeconomic and demographic research and applying data science techniques in order to ascertain valuable insights for policymakers.</p>
+  <p>Greetings, reader! My name is Francis Emmanuel Calingo, and I'm a Toronto-based aspiring geospatial data scientist with an undergraduate degree in Applied Mathematics and Statistics. My value lies in being able to transform data into visualizations and comprehensive analysis that I can present to non-technical audiences, my mathematical and statistical intuition when it comes to problem solving, and my domain knowledge in the realm of social science. I currently seek opportunities, whether in academia, professional settings, internship programs, or freelance, that is conducive of my goal of socioeconomic and demographic research and applying data science techniques in order to ascertain valuable insights for policymakers.</p>
 
 <a href="https://github.com/Francis-Calingo/Project-Stack"><b>Please click here to be redirected to my Project Stack!</b></a>
 
@@ -27,11 +27,9 @@
 <div id="🤓 A LITTLE MORE ABOUT ME 🤓">
   <h2>🤓 A LITTLE MORE ABOUT ME 🤓</h2>
   <ul>
-    <li>Pronouns: He/Him</li>
-    <li>Location: Tkaronto (Toronto), Canada</li>
-    <li>Hometown: Pasig, Philippines</li>
-    <li>Research Interests: Demographics, Socioeconomic Inequities, Migration Politics, Filipino Diaspora, Philippine Languages, Spatial Analysis, Data Visualization, Machine Learning, Predictive Modelling, Filipino Youth Activism, Decolonization Discourses, Indigenous Perspectives</li>
-    <li>Other Interests: Gym Workouts, Drawing, Lifelong Learning, Animals, Sports</li>
+    <li><b>Research Interests:</b> Demographics, Socioeconomic Inequities, Migration Politics, Filipino Diaspora, Philippine Languages, Spatial Analysis, Data Visualization, Machine Learning, Predictive Modelling, Filipino Youth Activism, Decolonization Discourses, Indigenous Perspectives</li>
+    <li><b>Soft Skills:</b> Analytical Thinking, Strong Verbal and Written Communication Skills, Leadership, Collaborative Teamwork</li>
+    <li><b>Other Interests:</b> Gym Workouts, Drawing, Lifelong Learning, Animals, Sports</li>
   </ul>
 
 <div id="🎓 EDUCATION 🎓">
@@ -53,16 +51,6 @@
   <ul>
      <li><a href="https://watspeed.uwaterloo.ca/programs-and-courses/program-data-science.html">Certificate Program, Data Science</a> // University of Waterloo, Remote (Expected May 2025) </li>
      <li><a href="https://www.coursera.org/professional-certificates/ibm-machine-learning">IBM Machine Learning Professional Certificate</a> // IBM, Online via Coursera (Expected March 2025) </li>
-  </ul>
-
-
-<div id="🛠️ SOFT SKILLS 🛠️">
-  <h2>🛠️ SOFT SKILLS 🛠️</h2>
-  <ul>
-    <li>Analytical Thinking</li>
-    <li>Strong Verbal and Written Communication Skills</li>
-    <li>Leadership</li>
-    <li>Collaborative Teamwork</li>
   </ul>
   
 
