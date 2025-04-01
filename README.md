@@ -34,8 +34,8 @@
 
 <div id="🎓 EDUCATION 🎓">
   <h2>🎓 EDUCATION 🎓</h2>
-  <h3>Completed:</h3>
   <ul>
+    <li><a href="https://watspeed.uwaterloo.ca/programs-and-courses/program-data-science.html">Certificate Program, Data Science</a> // University of Waterloo, Remote (Expected May 2025) </li>
     <li>HBSc. Major-Minor, in Applied Mathematics and Statistics // York University, Toronto, ON, Canada (Completed June 2022)</li>
     <ul>
       <li>Final year GPA: 7.0/9.0</li>
@@ -47,12 +47,6 @@
 </li>
     <li>Certificate, Explore Program-French As A Second Language // Collège La Cité, Ottawa, ON, Canada (Completed July 2022)</li>
     </ul>
-  <h3>Ongoing:</h3>
-  <ul>
-     <li><a href="https://watspeed.uwaterloo.ca/programs-and-courses/program-data-science.html">Certificate Program, Data Science</a> // University of Waterloo, Remote (Expected May 2025) </li>
-     <li><a href="https://www.coursera.org/professional-certificates/ibm-machine-learning">IBM Machine Learning Professional Certificate</a> // IBM, Online via Coursera (Expected March 2025) </li>
-  </ul>
-  
 
 <div id=" TECH STACK ">
   <h2>💻 TECH STACK 💻</h2>
