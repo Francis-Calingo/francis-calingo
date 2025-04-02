@@ -31,26 +31,21 @@
 <div id="🤓 A LITTLE MORE ABOUT ME 🤓">
   <h2>🤓 A LITTLE MORE ABOUT ME 🤓</h2>
   <ul>
+    <li><b>Formal Education:</b> HBSc. Major-Minor, in Applied Mathematics and Statistics // York University, Toronto, ON, Canada (Completed June 2022)</li>
+    <ul>
+      <li>Relevant coursework: Statistics, Linear Algebra, Integral Calculus, Differential Calculus, Mathematical Statistics, Mathematical Modelling, Applied Categorical Data Analysis</li>
+    </ul>
+    <li><b>Certificates and Upskilling:</b></li>
+    <ul>
+    <li><a href="https://watspeed.uwaterloo.ca/programs-and-courses/program-data-science.html">Certificate Program, Data Science</a> // University of Waterloo, Remote (Expected May 2025) </li>
+    <li>IBM Data Science Professional Certificate // IBM, Online via Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/S03A5IS9AEA7">(Completed March 2025)</a></li>
+    <li><a href="https://m2mtechconnect.com/programs/datatalent/jobseekers">DataTalent Upskilling Program</a> // M2M Tech, Online (Completed February 2025)</li>
+    <li>Specialization, GIS, Mapping, and Spatial Analysis // University of Toronto, Online via Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UALI76ER4OPO">(Completed January 2025)</a> 
+    </ul>
     <li><b>Research Interests:</b> Demographics, Socioeconomic Inequities, Migration Politics, Filipino Diaspora, Philippine Languages, Spatial Analysis, Data Visualization, Machine Learning, Predictive Modelling, Filipino Youth Activism, Decolonization Discourses, Indigenous Perspectives</li>
     <li><b>Soft Skills:</b> Analytical Thinking, Strong Verbal and Written Communication Skills, Leadership, Collaborative Teamwork</li>
     <li><b>Other Interests:</b> Gym Workouts, Drawing, Lifelong Learning, Animals, Sports</li>
   </ul>
-
-<div id="🎓 EDUCATION 🎓">
-  <h2>🎓 EDUCATION 🎓</h2>
-  <ul>
-    <li><a href="https://watspeed.uwaterloo.ca/programs-and-courses/program-data-science.html">Certificate Program, Data Science</a> // University of Waterloo, Remote (Expected May 2025) </li>
-    <li>HBSc. Major-Minor, in Applied Mathematics and Statistics // York University, Toronto, ON, Canada (Completed June 2022)</li>
-    <ul>
-      <li>Final year GPA: 7.0/9.0</li>
-      <li>Relevant coursework: Linear Algebra, Integral Calculus, Differential Calculus, Mathematical Statistics, Mathematical Modelling, Applied Categorical Data Analysis</li>
-    </ul>
-    <li>IBM Data Science Professional Certificate // IBM, Online via Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/S03A5IS9AEA7">(Completed March 2025)</a></li>
-    <li><a href="https://m2mtechconnect.com/programs/datatalent/jobseekers">DataTalent Upskilling Program</a> // M2M Tech, Online (Completed February 2025)</li>
-    <li>Specialization, GIS, Mapping, and Spatial Analysis // University of Toronto, Online via Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UALI76ER4OPO">(Completed January 2025)</a>
-</li>
-    <li>Certificate, Explore Program-French As A Second Language // Collège La Cité, Ottawa, ON, Canada (Completed July 2022)</li>
-    </ul>
 
 <div id=" TECH STACK ">
   <h2>💻 TECH STACK 💻</h2>
