@@ -7,8 +7,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://fecaling1997.z9.web.core.windows.net/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Static_Online_Resume-lightblue?style=for-the-badge&logo=msazure&logoColor=white" alt="Azure Badge"/>
+  <a href="https://francis-calingo.github.io/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Website-black?style=for-the-badge&logo=github&logoColor=white" alt="Azure Badge"/>
   </a>
     <a href="mailto:calingo2francis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
