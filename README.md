@@ -85,6 +85,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
 
   <b>Other tools</b>
+  <img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" alt="Canva Badge"/>
 </div>
