@@ -32,9 +32,13 @@
 <div id="🤓 A LITTLE MORE ABOUT ME 🤓">
   <h2>🤓 A LITTLE MORE ABOUT ME 🤓</h2>
   <ul>
-    <li><b>Formal Education:</b> HBSc. Major-Minor, in Applied Mathematics and Statistics // York University, Toronto, ON, Canada (Completed June 2022)</li>
+    <li><b>Formal Education:</b> </li>
     <ul>
-      <li>Relevant coursework: Statistics, Linear Algebra, Integral Calculus, Differential Calculus, Mathematical Statistics, Mathematical Modelling, Applied Categorical Data Analysis</li>
+      <li>MA, Human Geography // York University, Toronto, ON, Canada (Starting September 2025)</li>
+      <li>HBSc. Major-Minor, in Applied Mathematics and Statistics // York University, Toronto, ON, Canada (Completed June 2022)</li>
+      <ul>
+        <li>Relevant coursework: Statistics, Linear Algebra, Integral Calculus, Differential Calculus, Mathematical Statistics, Mathematical Modelling, Applied Categorical Data Analysis</li>
+      </ul>
     </ul>
     <li><b>Certificates and Upskilling:</b></li>
     <ul>
