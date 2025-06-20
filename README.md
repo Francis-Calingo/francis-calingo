@@ -94,3 +94,10 @@
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" alt="Canva Badge"/>
 </div>
+
+<div id=" CREDIT ">
+  <h2>CREDITS AND ACKNOWLEDGEMENTS</h2>
+  
+[![How to level up your GitHub profile README (Basic to Pro!)](https://ytcards.demolab.com/?id=DWFs6aqknqw&title=How+to+level+up+your+GitHub+profile+README+(+Basic+to+Pro+!+)&lang=en&timestamp=1702904408&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=853 "How to level up your GitHub profile README (Basic to Pro!)")](https://www.youtube.com/watch?v=DWFs6aqknqw)
+
+</div>
