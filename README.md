@@ -42,7 +42,7 @@
     </ul>
     <li><b>Certificates and Upskilling:</b></li>
     <ul>
-    <li><a href="https://watspeed.uwaterloo.ca/programs-and-courses/program-data-science.html">Certificate Program, Data Science</a> // University of Waterloo, Remote (Expected May 2025) </li>
+    <li><a href="https://watspeed.uwaterloo.ca/programs-and-courses/program-data-science.html">Certificate Program, Data Science</a> // University of Waterloo, Remote (Completed April 2025) </li>
     <li>IBM Data Science Professional Certificate // IBM, Online via Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/S03A5IS9AEA7">(Completed March 2025)</a></li>
     <li><a href="https://m2mtechconnect.com/programs/datatalent/jobseekers">DataTalent Upskilling Program</a> // M2M Tech, Online (Completed February 2025)</li>
     <li>Specialization, GIS, Mapping, and Spatial Analysis // University of Toronto, Online via Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UALI76ER4OPO">(Completed January 2025)</a> 
