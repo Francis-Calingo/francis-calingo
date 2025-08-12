@@ -101,7 +101,7 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/viz/DataonRegisteredFilipinoEmigrantsSincethe1980s/Dashboard1"> Tableau Dashboard of Registered Filipino Emigrants Since the 1980s</a>
 
-* <a href="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map"> Choropleth Map Visualizing Poverty in the Philippines</a>
+* <a href="https://github.com/Francis-Calingo/ArcGIS-Maps/tree/main/ArcGIS%20Pro%20Projects/Choropleth%20Map%20of%20Poverty%20in%20the%20Philippines"> Choropleth Map Visualizing Poverty in the Philippines</a>
 
 * <a href="https://storymaps.arcgis.com/stories/44ef21a201d04242942a9573d5d62919 "> ArcGIS StoryMap: Mapping the Decline of Philippine Regional Languages</a>
 
@@ -123,7 +123,7 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
 
-* <a href="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map"> Choropleth Map Visualizing Poverty in the Philippines</a>
+* <a href="https://github.com/Francis-Calingo/ArcGIS-Maps/tree/main/ArcGIS%20Pro%20Projects/Choropleth%20Map%20of%20Poverty%20in%20the%20Philippines"> Choropleth Map Visualizing Poverty in the Philippines</a>
 
 * <a href="https://github.com/Francis-Calingo/ArcGIS-StoryMaps/tree/main/ArcGIS%20Pro%20Projects/Healthcare%20and%20Transit%20Toronto%20Filipinos"> Mapping Transit and Healthcare Accessibility in Toronto Filipino Communities</a>
 
@@ -175,7 +175,7 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/Canadian-Rental-Prices-and-Immigration-ML-Predictive-Model"> Regression Modelling to Predict Canadian Rental Prices Based on Immigration Data</a>
 
-* <a href="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map"> Choropleth Map Visualizing Poverty in the Philippines</a>
+* <a href="https://github.com/Francis-Calingo/ArcGIS-Maps/tree/main/ArcGIS%20Pro%20Projects/Choropleth%20Map%20of%20Poverty%20in%20the%20Philippines"> Choropleth Map Visualizing Poverty in the Philippines</a>
 
 ### Spatial Analysis 
 
@@ -185,7 +185,7 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
 
-* <a href="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map"> Choropleth Map Visualizing Poverty in the Philippines</a>
+* <a href="https://github.com/Francis-Calingo/ArcGIS-Maps/tree/main/ArcGIS%20Pro%20Projects/Choropleth%20Map%20of%20Poverty%20in%20the%20Philippines"> Choropleth Map Visualizing Poverty in the Philippines</a>
 
 * <a href="https://github.com/Francis-Calingo/ArcGIS-StoryMaps/tree/main/ArcGIS%20Pro%20Projects/Healthcare%20and%20Transit%20Toronto%20Filipinos"> Mapping Transit and Healthcare Accessibility in Toronto Filipino Communities</a>
 
@@ -233,7 +233,7 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 ### Mapping and Geospatial Analysis
 >These projects incorporate spatial data (i.e., data that is associated with geographical metrics such as latitude, longitude, geographic divisions such as provinces, coordinates, etc.) and generates maps (either as satellite maps or symbolically).
 
-* <a href="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map"> Choropleth Map Visualizing Poverty in the Philippines</a>
+* <a href="https://github.com/Francis-Calingo/ArcGIS-Maps/tree/main/ArcGIS%20Pro%20Projects/Choropleth%20Map%20of%20Poverty%20in%20the%20Philippines"> Choropleth Map Visualizing Poverty in the Philippines</a>
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
 
