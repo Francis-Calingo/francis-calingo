@@ -3,7 +3,7 @@
   <h1>Hello, welcome to Francis' GitHub! 👋</h1>
   <p>Greetings, reader! My name is Francis Emmanuel Calingo. I am a Toronto-based aspiring geospatial data scientist with an undergraduate degree in Applied Mathematics and Statistics, and will be starting my Masters in Human Geography in September 2025. My value lies in being able to transform data into visualizations and comprehensive analysis that I can present to non-technical audiences, my mathematical and statistical intuition when it comes to problem solving, and my domain knowledge in social science and socioeconomic public policy.</p>
 
-<a href="https://github.com/Francis-Calingo/Project-Stack"><b>Please click here to be redirected to my Project Stack!</b></a>
+<a href="https://github.com/Francis-Calingo/francis-calingo/blob/main/Project-Stack.md"><b>Please click here to be redirected to my Project Stack!</b></a>
 
 </div>
 
