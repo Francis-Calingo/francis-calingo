@@ -4,6 +4,11 @@ This repo lists all of my contributions to open-source projects and endeavours. 
 
 ***UPDATED AS OF AUGUST 12, 2025***
 
+# Table of Contents
+* [Contributions on GitHub Repos](#contributions-on-github-repos)
+* [Contributions on Ovio](#contributions-on-ovio)
+* [Other Open-Source Contributions](#other-open-source-contributions)
+
 ---
 
 # Contributions on GitHub Repos
