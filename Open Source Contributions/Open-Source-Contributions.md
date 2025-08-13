@@ -44,7 +44,7 @@ Markdown code for the "Spatial Software" section after my modification:
 
 Result:
 
-<img src= "https://github.com/Francis-Calingo/Open-Source-Contributions/blob/main/OpenSource1.jpg" />
+<img src= "./OpenSource1.jpg" />
 
 # Contributions on Ovio
 
