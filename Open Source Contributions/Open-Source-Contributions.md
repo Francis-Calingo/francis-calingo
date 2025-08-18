@@ -73,11 +73,10 @@ Summary of contributions:
 
 | Metric  | Score |
 | ------------- | ------------- |
-| Number of swipes  | 1759  |
-| Total time spent swiping  | 1h 06m 00s  |
-| Total area swiped (sq. km)  | 469  |
-| Total projects  | 33 |
+| Number of swipes  | 1978  |
+| Total time spent swiping  | 1h 13m |
+| Total area swiped (sq. km)  | 498  |
+| Total projects  | 36 |
 | Organizations supported  | 4  |
-| User groups joined  | 0  |
 
 ***Updated as of August 18, 2025***
