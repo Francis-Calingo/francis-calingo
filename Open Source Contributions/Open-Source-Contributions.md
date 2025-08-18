@@ -88,9 +88,3 @@ Summary of contributions:
 [Link to my contribution statistics](https://www.openstreetmap.org/user/Francis%20Emmanuel%20Calingo)
 
 ***Updated as of August 18, 2025***
-
-
-
-
-
-https://www.openstreetmap.org/user/Francis%20Emmanuel%20Calingo
