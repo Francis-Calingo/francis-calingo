@@ -7,7 +7,7 @@ This repo lists all of my contributions to open-source projects and endeavours. 
 # Table of Contents
 * [Contributions on GitHub Repos](#contributions-on-github-repos)
 * [Contributions on Ovio](#contributions-on-ovio)
-* [Other Open-Source Contributions](#other-open-source-contributions)
+* [Mapping Contributions](#mapping-contributions)
 
 ---
 
@@ -63,7 +63,9 @@ Ovio is an online platform that connects developers with potential open-source c
 
 ---
 
-# Other Open-Source Contributions
+# Mapping Contributions
+
+## Missing Maps
 
 Currently, I contribute to an app called [MapSwipe](https://mapswipe.org/en/blogs/2023-08-22-investing-in-mapswipe/). MapSwipe is an open-source online platform that allows users to contribute to mapping efforts worldwide. By finding, comparing, and validating maps and Earth imagery--which trains the algorithm into recognizing proper satellite imagery, the users have an immensely positive geospatial impact in the realm of data for good such as humanitarian relief.
 
@@ -80,3 +82,15 @@ Summary of contributions:
 | Organizations supported  | 4  |
 
 ***Updated as of August 18, 2025***
+
+## Open Street Maps
+
+[Link to my contribution statistics](https://www.openstreetmap.org/user/Francis%20Emmanuel%20Calingo)
+
+***Updated as of August 18, 2025***
+
+
+
+
+
+https://www.openstreetmap.org/user/Francis%20Emmanuel%20Calingo
