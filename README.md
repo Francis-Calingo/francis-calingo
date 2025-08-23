@@ -50,8 +50,6 @@
     <li>Specialization, GIS, Mapping, and Spatial Analysis // University of Toronto, Online via Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UALI76ER4OPO">(Completed January 2025)</a> 
     </ul>
     <li><b>Research Interests:</b> Demographics, Socioeconomic Inequities, Migration Politics, Filipino Diaspora, Philippine Languages, Spatial Analysis, Data Visualization, Machine Learning, Predictive Modelling, Filipino Youth Activism, Decolonization Discourses, Indigenous Perspectives</li>
-    <li><b>Soft Skills:</b> Analytical Thinking, Strong Verbal and Written Communication Skills, Leadership, Collaborative Teamwork</li>
-    <li><b>Other Interests:</b> Gym Workouts, Drawing, Lifelong Learning, Animals, Sports</li>
   </ul>
 
 <div id=" TECH STACK ">
