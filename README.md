@@ -11,7 +11,7 @@
 
 <div id="badges" align="center">
   <a href="https://francis-calingo.github.io/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Website-black?style=for-the-badge&logo=github&logoColor=white" alt="Azure Badge"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Website-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
     <a href="mailto:calingo2francis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
@@ -22,12 +22,14 @@
   <a href="https://spatialnode.net/fe_cali">
     <img src="https://img.shields.io/badge/Geospatial_Porfolio-blue?style=for-the-badge&logo=earth&logoColor=white" alt="SpatialNode Badge"/>
   </a>
+  <a href="https://www.openstreetmap.org/user/FrancisEmmanuelCalingo">
+    <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white" alt="OSM Badge"/>
+  </a>
   <a href="https://medium.com/@calingo2francis">
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
   <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/vizzes">
     <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
-
 
 </div>
 
