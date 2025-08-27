@@ -33,8 +33,8 @@
 
 </div>
 
-<div id="🤓 EDUCATION & UPSKILLING 🤓">
-  <h2>🤓 A LITTLE MORE ABOUT ME 🤓</h2>
+<div id="🎓 EDUCATION & UPSKILLING 🎓">
+  <h2>🎓 EDUCATION & UPSKILLING 🎓</h2>
   <ul>
     <li><b>Formal Education:</b> </li>
     <ul>
