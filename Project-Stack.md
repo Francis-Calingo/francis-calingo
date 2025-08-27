@@ -73,9 +73,9 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Stock%20Price%20and%20Revenue%20Analysis"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Data%20Science%20for%20Rocket%20Science"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
 * <a href="https://github.com/Francis-Calingo/Canadian-Rental-Prices-and-Immigration-ML-Predictive-Model"> Regression Modelling to Predict Canadian Rental Prices Based on Immigration Data</a>
 
@@ -107,7 +107,7 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 ### SQL
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Data%20Science%20for%20Rocket%20Science"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
 ### Tableau
 
@@ -189,6 +189,8 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://storymaps.arcgis.com/stories/44ef21a201d04242942a9573d5d62919 "> ArcGIS StoryMap: Mapping the Decline of Philippine Regional Languages</a>
 
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Data%20Science%20for%20Rocket%20Science"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
+
 ### Socio-Cultural Research
 
 * <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>
@@ -197,9 +199,9 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 ### Miscellaneous 
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Stock%20Price%20and%20Revenue%20Analysis"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Data%20Science%20for%20Rocket%20Science"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
 [<b>Back to the Top of this Section</b>](#filtered-by-research-topics) | [<b>Back to Table of Contents</b>](#table-of-contents)
 
@@ -216,9 +218,9 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Stock%20Price%20and%20Revenue%20Analysis"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Data%20Science%20for%20Rocket%20Science"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
 * <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/viz/DataonRegisteredFilipinoEmigrantsSincethe1980s/Dashboard1"> Tableau Dashboard of Registered Filipino Emigrants Since the 1980s</a>
 
@@ -233,7 +235,7 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Data%20Science%20for%20Rocket%20Science"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
 * <a href="https://github.com/Francis-Calingo/ArcGIS-StoryMaps/tree/main/ArcGIS%20Pro%20Projects/Healthcare%20and%20Transit%20Toronto%20Filipinos"> Mapping Transit and Healthcare Accessibility in Toronto Filipino Communities</a>
 
@@ -248,7 +250,7 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/Canadian-Rental-Prices-and-Immigration-ML-Predictive-Model"> Regression Modelling to Predict Canadian Rental Prices Based on Immigration Data</a>
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Data%20Science%20for%20Rocket%20Science"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
 ### Statistical Analysis
 >These projects uses statistical techniques and concepts such as correlation analysis and variance analysis in order to better understand and discover underlying patterns and trends.
@@ -266,7 +268,7 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Stock%20Price%20and%20Revenue%20Analysis"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 
 ### Natural Language Processing
 >These projects implement algortithms that allow computers to understand, interpret, generate, and manipulate human language.
@@ -278,8 +280,8 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Stock%20Price%20and%20Revenue%20Analysis"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 
-* <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
+* <a href="https://github.com/Francis-Calingo/IBM-Data-Science-Capstones/tree/main/Data%20Science%20for%20Rocket%20Science"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
 [<b>Back to the Top of this Section</b>](#filtered-by-data-concepts) | [<b>Back to Table of Contents</b>](#table-of-contents)
