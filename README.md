@@ -3,7 +3,7 @@
   <h1>Hello, welcome to Francis' GitHub! 👋</h1>
   <p>I am a Toronto-based aspiring geospatial data professional with an undergraduate degree in Applied Mathematics and Statistics, and will be starting my Masters in Human Geography in September 2025. With 4+ years of experience in data and data-adjacent roles, and a track record in completing high-impact projects in the areas of community organizing, finance, tech, and public policy, my value lies in channeling my quantitative background, technical experience, and domain knowledge in social science and socioeconomic public policy towards actionable insights in the realms of spatial analysis, machine learning, and socioeconomic inequalities.</p>
 
-<a href="https://github.com/Francis-Calingo/francis-calingo/blob/main/Project-Stack.md"><b>View my Project Stack!</b></a> | <a href="https://github.com/Francis-Calingo/francis-calingo/blob/main/Open%20Source%20Contributions/Open-Source-Contributions.md"><b>View my Open Source Contributions! </b></a>
+<a href="https://github.com/Francis-Calingo/francis-calingo/blob/main/Project-Stack.md"><b>View my Project Stack!</b></a> **|** <a href="https://github.com/Francis-Calingo/francis-calingo/blob/main/Open%20Source%20Contributions/Open-Source-Contributions.md"><b>View my Open Source Contributions! </b></a> **|** <a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io/blob/main/assets/Resume.pdf" download class="btn"><b>Download My One-Page Resume! </b></a>
 
 
 
