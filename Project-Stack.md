@@ -77,8 +77,6 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
-* <a href="https://github.com/Francis-Calingo/NHL-POINT-PERCENTAGE-ANALYSIS"> NHL Point Percentage Visualization and Analysis</a>
-
 * <a href="https://github.com/Francis-Calingo/Canadian-Rental-Prices-and-Immigration-ML-Predictive-Model"> Regression Modelling to Predict Canadian Rental Prices Based on Immigration Data</a>
 
 ### R/RStudio
@@ -96,8 +94,6 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
-
-* <a href="https://github.com/Francis-Calingo/NHL-POINT-PERCENTAGE-ANALYSIS"> NHL Point Percentage Visualization and Analysis</a>
 
 * <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/viz/DataonRegisteredFilipinoEmigrantsSincethe1980s/Dashboard1"> Tableau Dashboard of Registered Filipino Emigrants Since the 1980s</a>
 
@@ -201,8 +197,6 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 ### Miscellaneous 
 
-* <a href="https://github.com/Francis-Calingo/NHL-POINT-PERCENTAGE-ANALYSIS"> NHL Point Percentage Visualization and Analysis</a>
-
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
@@ -225,8 +219,6 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
-
-* <a href="https://github.com/Francis-Calingo/NHL-POINT-PERCENTAGE-ANALYSIS"> NHL Point Percentage Visualization and Analysis</a>
 
 * <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/viz/DataonRegisteredFilipinoEmigrantsSincethe1980s/Dashboard1"> Tableau Dashboard of Registered Filipino Emigrants Since the 1980s</a>
 
@@ -275,8 +267,6 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
-
-* <a href="https://github.com/Francis-Calingo/NHL-POINT-PERCENTAGE-ANALYSIS"> NHL Point Percentage Visualization and Analysis</a>
 
 ### Natural Language Processing
 >These projects implement algortithms that allow computers to understand, interpret, generate, and manipulate human language.
