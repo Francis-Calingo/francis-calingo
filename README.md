@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://github.com/Francis-Calingo/francis-calingo/blob/main/Banner.png"/>
   <h1>Hello, welcome to Francis' GitHub! 👋</h1>
-  <p>Greetings, reader! My name is Francis Emmanuel Calingo. I am a Toronto-based aspiring geospatial data scientist with an undergraduate degree in Applied Mathematics and Statistics, and will be starting my Masters in Human Geography in September 2025. My value lies in being able to transform data into visualizations and comprehensive analysis that I can present to non-technical audiences, my mathematical and statistical intuition when it comes to problem solving, and my domain knowledge in social science and socioeconomic public policy.</p>
+  <p>I am a Toronto-based aspiring geospatial data professional with an undergraduate degree in Applied Mathematics and Statistics, and will be starting my Masters in Human Geography in September 2025. With 4+ years of experience in data and data-adjacent roles, and a track record in completing high-impact projects in the areas of community organizing, finance, tech, and public policy, my value lies in channeling my quantitative background, technical experience, and domain knowledge in social science and socioeconomic public policy towards actionable insights in the realms of spatial analysis, machine learning, and socioeconomic inequalities.</p>
 
-<a href="https://github.com/Francis-Calingo/francis-calingo/blob/main/Project-Stack.md"><b>Please click here to view my Project Stack!</b></a> | <a href="https://github.com/Francis-Calingo/francis-calingo/blob/main/Open%20Source%20Contributions/Open-Source-Contributions.md"><b>Please click here to view my Open Source Contributions! </b></a>
+<a href="https://github.com/Francis-Calingo/francis-calingo/blob/main/Project-Stack.md"><b>View my Project Stack!</b></a> | <a href="https://github.com/Francis-Calingo/francis-calingo/blob/main/Open%20Source%20Contributions/Open-Source-Contributions.md"><b>View my Open Source Contributions! </b></a>
 
 
 
@@ -33,7 +33,7 @@
 
 </div>
 
-<div id="🤓 A LITTLE MORE ABOUT ME 🤓">
+<div id="🤓 EDUCATION & UPSKILLING 🤓">
   <h2>🤓 A LITTLE MORE ABOUT ME 🤓</h2>
   <ul>
     <li><b>Formal Education:</b> </li>
@@ -48,7 +48,6 @@
     <li><a href="https://m2mtechconnect.com/programs/datatalent/jobseekers">DataTalent Upskilling Program</a> // M2M Tech, Online (Completed February 2025)</li>
     <li>Specialization, GIS, Mapping, and Spatial Analysis // University of Toronto, Online via Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UALI76ER4OPO">(Completed January 2025)</a> 
     </ul>
-    <li><b>Research Interests:</b> Demographics, Socioeconomic Inequities, Migration Politics, Filipino Diaspora, Philippine Languages, Spatial Analysis, Data Visualization, Machine Learning, Predictive Modelling, Filipino Youth Activism, Decolonization Discourses, Indigenous Perspectives</li>
   </ul>
 
 <div id=" TECH STACK ">
