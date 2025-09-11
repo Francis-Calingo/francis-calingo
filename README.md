@@ -39,7 +39,7 @@
   <ul>
     <li><b>Formal Education:</b> </li>
     <ul>
-      <li>MA, Human Geography // York University, Toronto, ON, Canada (Starting September 2025)</li>
+      <li>MA, Human Geography // York University, Toronto, ON, Canada (Expected June 2027)</li>
       <li>HBSc. Major-Minor, in Applied Mathematics and Statistics // York University, Toronto, ON, Canada (Completed June 2022)</li>
     </ul>
     <li><b>Certificates and Upskilling:</b></li>
