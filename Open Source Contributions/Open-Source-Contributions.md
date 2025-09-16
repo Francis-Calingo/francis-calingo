@@ -2,7 +2,7 @@
 
 This repo lists all of my contributions to open-source projects and endeavours. Open-source projects are projects that are available for members of the public to duplicate and modify (with permission). This is a great way for people who would like to work in the data industry to gain expereince in contributing to projects, especially since many roles will involve working collaboratively in teams.
 
-***UPDATED AS OF SEPTEMBER 15, 2025***
+***UPDATED AS OF SEPTEMBER 16, 2025***
 
 # Table of Contents
 * [Contributions on GitHub Repos](#contributions-on-github-repos)
@@ -59,7 +59,7 @@ Result:
 
 Ovio is an online platform that connects developers with potential open-source contributors. In other words, it is a platform that allows one to contribute to real-world projects similar to how GitHub users can contribute to open-source repos.
 
-***No updates as of September 15, 2025***
+***No updates as of September 16, 2025***
 
 ---
 
@@ -75,15 +75,15 @@ Summary of contributions:
 
 | Metric  | Score |
 | ------------- | ------------- |
-| Number of swipes  | 5002 |
-| Total area swiped (sq. km)  | 1015  |
-| Total projects  | 99 |
+| Number of swipes  | 5198 |
+| Total area swiped (sq. km)  | 1935  |
+| Total projects  | 102 |
 | Organizations supported  | 5  |
 
-***Updated as of September 15, 2025***
+***Updated as of September 16, 2025***
 
 ## Open Street Maps
 
 [Link to my contribution statistics](https://www.openstreetmap.org/user/Francis%20Emmanuel%20Calingo)
 
-***Updated as of September 15, 2025***
+***Updated as of September 16, 2025***
