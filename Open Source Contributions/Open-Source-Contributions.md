@@ -70,13 +70,13 @@ Markdown code for the "Spatial Software" section after my modification:
 
 [Link to original repo](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) | [Link to forked repo in my profile](https://github.com/Francis-Calingo/how-to-contribute-to-open-source)
 
-**Repo Info:** 
+**Repo Info:** A repository made by FreeCodeCamp to help guide users in finding and meaningfully contributing to open-source projects.
 
 **Tools/Languages Used:** Markdown
 
-**Summary of Contribution:** 
+**Summary of Contribution:** The repo has guides in multiple languages, but do not have guides in the Tagalog and Ilocano languages.
 
-**Projected Impact:** 
+**Projected Impact:** Tagalog and Ilocano translations will be provided for the repo. 
 
 **Details of Contribution:**
 
@@ -86,11 +86,11 @@ Markdown code for the "Spatial Software" section after my modification:
 
 [Link to original repo](https://github.com/awesomedata/apd-core) | [Link to forked repo in my profile](https://github.com/Francis-Calingo/apd-core)
 
-**Repo Info:** 
+**Repo Info:** A repository for publicly available free-to-use datasets.
 
 **Tools/Languages Used:** Markdown
 
-**Summary of Contribution:** 
+**Summary of Contribution:** The Government of Ontario's Open Data website will be added to the repo.
 
 **Projected Impact:** 
 
