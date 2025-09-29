@@ -17,7 +17,7 @@ Many repos on GitHub are open-source, meaning that GitHub members have the abili
 
 ## Completed
 
-## Badges4-README.md-Profile
+### Badges4-README.md-Profile
 
 [Link to original repo](https://github.com/alexandresanlim/Badges4-README.md-Profile) | [Link to forked repo in my profile](https://github.com/Francis-Calingo/Badges4-README.md-Profile)
 
@@ -67,7 +67,7 @@ Ovio is an online platform that connects developers with potential open-source c
 ***Updated as of September 28, 2025***
 
 
-## Ongoing
+### Ongoing
 
 
 
