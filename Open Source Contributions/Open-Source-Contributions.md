@@ -22,6 +22,8 @@ This repo lists all of my contributions to open-source projects and endeavours. 
 
 Many repos on GitHub are open-source, meaning that GitHub members have the ability to suggest and contribute changes to a repo. Examples include, but are not limted to, debugging the source code, adding content to a README file, etc. To oversimplify the process of contributing to an open-source repo, one will first have to fork the repo (i.e., duplicate the repo into your own GitHub profile), make modifications to the duplicated repo, then request the owner of the original repo to make your desired modifications to the original repo (this is known as a pull request, where you are requesting the owner to merge your changes into the original repo). Of course, results may vary, and not all pull requests will be accepted.
 
+***Updated as of September 28, 2025***
+
 ## Completed
 
 ### Badges4-README.md-Profile
@@ -73,8 +75,9 @@ Ovio is an online platform that connects developers with potential open-source c
 
 ***Updated as of September 28, 2025***
 
+## Completed
 
-### Ongoing
+## Ongoing
 
 
 
