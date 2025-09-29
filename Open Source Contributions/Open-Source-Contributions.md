@@ -64,6 +64,8 @@ Result:
 
 <img src= "./OpenSource1.jpg" />
 
+---
+
 ## Ongoing
 
 
@@ -76,6 +78,10 @@ Ovio is an online platform that connects developers with potential open-source c
 ***Updated as of September 28, 2025***
 
 ## Completed
+
+None as of September 28, 2025
+
+---
 
 ## Ongoing
 
