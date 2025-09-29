@@ -6,8 +6,8 @@ This repo lists all of my contributions to open-source projects and endeavours. 
 
 # Table of Contents
 * [Contributions on GitHub Repos](#contributions-on-github-repos)
-  * [Completed]()
-  * [Ongoing]()
+  * [Completed](#completed)
+  * [Ongoing](#ongoing)
 * [Contributions on Ovio](#contributions-on-ovio)
   * [Completed]()
   * [Ongoing]()
