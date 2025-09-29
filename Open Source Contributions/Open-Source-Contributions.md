@@ -58,7 +58,7 @@ Markdown code for the "Spatial Software" section after my modification:
 | <img src="https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white` |
 ```
 
-Result:
+**Result:**
 
 <img src= "./OpenSource1.jpg" />
 
@@ -68,7 +68,35 @@ Result:
 
 ### how-to-contribute-to-open-source
 
+[Link to original repo]()
+
+**Repo Info:** 
+
+**Tools/Languages Used:** Markdown
+
+**Summary of Contribution:** 
+
+**Projected Impact:** 
+
+**Details of Contribution:**
+
+**Result:**
+
 ### apd-core
+
+[Link to original repo]()
+
+**Repo Info:** 
+
+**Tools/Languages Used:** Markdown
+
+**Summary of Contribution:** 
+
+**Projected Impact:** 
+
+**Details of Contribution:**
+
+**Result:**
 
 ---
 
