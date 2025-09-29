@@ -66,6 +66,9 @@ Result:
 
 ## 🚧 Ongoing 🚧
 
+### how-to-contribute-to-open-source
+
+### apd-core
 
 ---
 
@@ -83,7 +86,7 @@ None as of September 28, 2025
 
 ## 🚧 Ongoing 🚧
 
-
+### terrastories
 
 ---
 
