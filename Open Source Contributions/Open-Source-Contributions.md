@@ -113,9 +113,13 @@ Summary of contributions:
 
 Summary of contributions:
 
-| Metric  | Score |
+| Country  | Number of Changes |
 | ------------- | ------------- |
-| Number of swipes  | 5826 |
-| Total area swiped (sq. km)  | 1114 |
-| Total projects  | 114 |
-| Organizations supported  | 5  |
+| Canada | 707 |
+| Mexico | 310 |
+| Japan  | 170 |
+| Mozambique  | 129 |
+| India  | 63 |
+| East Timor  | 40 |
+| Kenya  | 5 |
+
