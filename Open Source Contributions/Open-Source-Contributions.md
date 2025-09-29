@@ -14,8 +14,6 @@ This repo lists all of my contributions to open-source projects and endeavours. 
 * [Mapping Contributions](#mapping-contributions)
   * [Missing Maps](#missing-maps)
   * [OpenStreetMap](#openstreetmap)
-  * [Humanitarian OpenStreetMap Team](#humanitarian-openstreetmap-team)
-
 ---
 
 # Contributions on GitHub Repos
@@ -111,9 +109,13 @@ Summary of contributions:
 
 ## OpenStreetMap
 
-[Link to my contribution statistics](https://www.openstreetmap.org/user/Francis%20Emmanuel%20Calingo)
+[Link to my contribution statistics](https://hdyc.neis-one.org/?FrancisEmmanuelCalingo)
 
-## Humanitarian OpenStreetMap
+Summary of contributions:
 
-
-***Updated as of September 28, 2025***
+| Metric  | Score |
+| ------------- | ------------- |
+| Number of swipes  | 5826 |
+| Total area swiped (sq. km)  | 1114 |
+| Total projects  | 114 |
+| Organizations supported  | 5  |
