@@ -68,7 +68,7 @@ Markdown code for the "Spatial Software" section after my modification:
 
 ### how-to-contribute-to-open-source
 
-[Link to original repo]() | [Link to forked repo in my profile]()
+[Link to original repo](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) | [Link to forked repo in my profile](https://github.com/Francis-Calingo/how-to-contribute-to-open-source)
 
 **Repo Info:** 
 
@@ -84,7 +84,7 @@ Markdown code for the "Spatial Software" section after my modification:
 
 ### apd-core
 
-[Link to original repo]() | [Link to forked repo in my profile]()
+[Link to original repo](https://github.com/awesomedata/apd-core) | [Link to forked repo in my profile](https://github.com/Francis-Calingo/apd-core)
 
 **Repo Info:** 
 
@@ -116,7 +116,7 @@ None as of September 28, 2025
 
 ### terrastories
 
-[Ovio link to project]() | [Link to forked repo in my profile]()
+[Ovio link to project]() | [Link to forked repo in my profile](https://github.com/Francis-Calingo/terrastories)
 
 
 ---
