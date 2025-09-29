@@ -68,7 +68,7 @@ Markdown code for the "Spatial Software" section after my modification:
 
 ### how-to-contribute-to-open-source
 
-[Link to original repo]()
+[Link to original repo]() | [Link to forked repo in my profile]()
 
 **Repo Info:** 
 
@@ -84,7 +84,7 @@ Markdown code for the "Spatial Software" section after my modification:
 
 ### apd-core
 
-[Link to original repo]()
+[Link to original repo]() | [Link to forked repo in my profile]()
 
 **Repo Info:** 
 
@@ -115,6 +115,9 @@ None as of September 28, 2025
 ## 🚧 Ongoing 🚧
 
 ### terrastories
+
+[Ovio link to project]() | [Link to forked repo in my profile]()
+
 
 ---
 
