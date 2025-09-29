@@ -15,6 +15,8 @@ This repo lists all of my contributions to open-source projects and endeavours. 
 
 Many repos on GitHub are open-source, meaning that GitHub members have the ability to suggest and contribute changes to a repo. Examples include, but are not limted to, debugging the source code, adding content to a README file, etc. To oversimplify the process of contributing to an open-source repo, one will first have to fork the repo (i.e., duplicate the repo into your own GitHub profile), make modifications to the duplicated repo, then request the owner of the original repo to make your desired modifications to the original repo (this is known as a pull request, where you are requesting the owner to merge your changes into the original repo). Of course, results may vary, and not all pull requests will be accepted.
 
+## Completed
+
 ## Badges4-README.md-Profile
 
 [Link to original repo](https://github.com/alexandresanlim/Badges4-README.md-Profile) | [Link to forked repo in my profile](https://github.com/Francis-Calingo/Badges4-README.md-Profile)
@@ -53,17 +55,27 @@ Result:
 
 <img src= "./OpenSource1.jpg" />
 
+## Ongoing
+
+
 ---
 
 # Contributions on Ovio
 
 Ovio is an online platform that connects developers with potential open-source contributors. In other words, it is a platform that allows one to contribute to real-world projects similar to how GitHub users can contribute to open-source repos.
 
-***No updates as of September 28, 2025***
+***Updated as of September 28, 2025***
+
+
+## Ongoing
+
+
 
 ---
 
 # Mapping Contributions
+
+***Updated as of September 28, 2025***
 
 ## Missing Maps
 
@@ -80,10 +92,12 @@ Summary of contributions:
 | Total projects  | 114 |
 | Organizations supported  | 5  |
 
-***Updated as of September 28, 2025***
 
-## Open Street Maps
+## OpenStreetMap
 
 [Link to my contribution statistics](https://www.openstreetmap.org/user/Francis%20Emmanuel%20Calingo)
+
+## Humanitarian OpenStreetMap
+
 
 ***Updated as of September 28, 2025***
