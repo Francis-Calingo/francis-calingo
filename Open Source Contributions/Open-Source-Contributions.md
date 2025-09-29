@@ -6,11 +6,11 @@ This repo lists all of my contributions to open-source projects and endeavours. 
 
 # Table of Contents
 * [Contributions on GitHub Repos](#contributions-on-github-repos)
-  * [Completed](#completed)
-  * [Ongoing](#ongoing)
+  * [Completed](#-completed-)
+  * [Ongoing](#-ongoing-)
 * [Contributions on Ovio](#contributions-on-ovio)
-  * [Completed](#completed-1)
-  * [Ongoing](#ongoing-1)
+  * [Completed](#-completed--1)
+  * [Ongoing](#-ongoing--1)
 * [Mapping Contributions](#mapping-contributions)
   * [Missing Maps](#missing-maps)
   * [OpenStreetMap](#openstreetmap)
