@@ -161,6 +161,6 @@ Summary of contributions:
 | Algeria  | 5 |
 | Iran  | 5 |
 | Philippines  | 4 |
-| United States | 1 |
 | Argentina  | 3 |
 | Czech Republic  | 2 |
+| United States | 1 |
