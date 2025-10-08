@@ -149,13 +149,16 @@ Summary of contributions:
 
 | Country  | Number of Changes |
 | ------------- | ------------- |
-| Canada | 891 |
+| Canada | 975 |
 | Mexico | 310 |
 | Japan  | 170 |
 | Mozambique  | 129 |
 | India  | 63 |
 | East Timor  | 40 |
 | Kenya  | 5 |
+| Algeria  | 5 |
+| Iran  | 5 |
 | Philippines  | 4 |
 | United States | 1 |
-
+| Argentina  | 3 |
+| Czech Republic  | 2 |
