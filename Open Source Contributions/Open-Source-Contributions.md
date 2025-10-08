@@ -155,6 +155,8 @@ Summary of contributions:
 | Mozambique  | 129 |
 | India  | 63 |
 | East Timor  | 40 |
+| South Korea  | 12 |
+| Greece  | 8 |
 | Kenya  | 5 |
 | Algeria  | 5 |
 | Iran  | 5 |
