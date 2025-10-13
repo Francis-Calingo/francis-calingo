@@ -149,7 +149,7 @@ Summary of contributions:
 
 | Country  | Number of Changes |
 | ------------- | ------------- |
-| Canada | 1106 |
+| Canada | 1145 |
 | Mexico | 310 |
 | Japan  | 170 |
 | Mozambique  | 129 |
