@@ -135,9 +135,9 @@ Summary of contributions:
 
 | Metric  | Score |
 | ------------- | ------------- |
-| Number of swipes  | 10,063 |
-| Total area swiped (sq. km)  | 3738 |
-| Total projects  | 193 |
+| Number of swipes  | 10,176 |
+| Total area swiped (sq. km)  | 3813 |
+| Total projects  | 195 |
 | Organizations supported  | 6  |
 
 
@@ -149,7 +149,7 @@ Summary of contributions:
 
 | Country  | Number of Changes |
 | ------------- | ------------- |
-| Canada | 2143 |
+| Canada | 2153 |
 | Mexico | 310 |
 | Japan  | 170 |
 | Mozambique  | 129 |
@@ -157,10 +157,15 @@ Summary of contributions:
 | India  | 63 |
 | East Timor  | 40 |
 | South Korea  | 19 |
+| Ghana  | 18 |
+| American Samoa  | 19 |
 | Madagascar  | 16 |
+| Brunei  | 14 |
+| Sri Lanka  | 11 |
 | Greece  | 8 |
 | Singapore  | 8 |
 | Vietnam  | 6 |
+| Samoa  | 5 |
 | Kenya  | 5 |
 | Algeria  | 5 |
 | Iran  | 5 |
