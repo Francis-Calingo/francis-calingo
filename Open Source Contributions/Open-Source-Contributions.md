@@ -156,9 +156,9 @@ Summary of contributions:
 | Philippines  | 64 |
 | India  | 63 |
 | East Timor  | 40 |
+| American Samoa  | 30 |
 | South Korea  | 19 |
 | Ghana  | 18 |
-| American Samoa  | 19 |
 | Madagascar  | 16 |
 | Brunei  | 14 |
 | Sri Lanka  | 11 |
