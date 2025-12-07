@@ -2,7 +2,7 @@
 
 This repo lists all of my contributions to open-source projects and endeavours. Open-source projects are projects that are available for members of the public to duplicate and modify (with permission). This is a great way for people who would like to work in the data industry to gain expereince in contributing to projects, especially since many roles will involve working collaboratively in teams.
 
-***UPDATED AS OF DECEMBER 05, 2025***
+***UPDATED AS OF DECEMBER 07, 2025***
 
 # Table of Contents
 * [Contributions on GitHub Repos](#contributions-on-github-repos)
@@ -104,11 +104,11 @@ Markdown code for the "Spatial Software" section after my modification:
 
 Ovio is an online platform that connects developers with potential open-source contributors. In other words, it is a platform that allows one to contribute to real-world projects similar to how GitHub users can contribute to open-source repos.
 
-***Updated as of December 05, 2025***
+***Updated as of December 07, 2025***
 
 ## ✅ Completed ✅
 
-None as of December 05, 2025
+None as of December 07, 2025
 
 ---
 
@@ -123,7 +123,7 @@ None as of December 05, 2025
 
 # Mapping Contributions
 
-***Updated as of December 05, 2025***
+***Updated as of December 07, 2025***
 
 ## Missing Maps
 
@@ -165,6 +165,7 @@ Summary of contributions:
 | Madagascar  | 16 |
 | Brunei  | 14 |
 | Sri Lanka  | 11 |
+| Ethiopia  | 10 |
 | Greece  | 8 |
 | Singapore  | 8 |
 | Georgia  | 7 |
