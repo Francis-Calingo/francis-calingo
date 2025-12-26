@@ -1,6 +1,6 @@
 # Open Source Contributions
 
-This repo lists all of my contributions to open-source projects and endeavours. Open-source projects are projects that are available for members of the public to duplicate and modify (with permission). This is a great way for people who would like to work in the data industry to gain expereince in contributing to projects, especially since many roles will involve working collaboratively in teams.
+This repo lists all of my contributions to open-source projects and endeavours. Open-source projects are projects that are available for members of the public to duplicate and modify (with permission). This is a great way for people who would like to work in the data industry to gain experience in contributing to projects, especially since many roles will involve working collaboratively in teams.
 
 ***UPDATED AS OF DECEMBER 26, 2025***
 
