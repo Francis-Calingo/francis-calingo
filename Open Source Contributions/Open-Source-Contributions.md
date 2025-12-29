@@ -160,6 +160,7 @@ Total countries: **58**
 | Jamaica  | 115 |
 | Cayman Islands  | 89 |
 | Russia  | 69 |
+| Belize  | 67 |
 | Estonia  | 57 |
 | East Timor  | 40 |
 | Nigeria | 39 |
@@ -180,6 +181,7 @@ Total countries: **58**
 | Ghana  | 18 |
 | Guernsey  | 25 |
 | Madagascar  | 16 |
+| Honduras  | 15 |
 | Kenya  | 15 |
 | Brunei  | 14 |
 | Tunisia  | 14 |
@@ -198,6 +200,7 @@ Total countries: **58**
 | Samoa  | 5 |
 | Algeria  | 5 |
 | Iran  | 5 |
+| The Bahamas  | 4 |
 | Argentina  | 3 |
 | Bermuda  | 3 |
 | Ireland | 3 |
