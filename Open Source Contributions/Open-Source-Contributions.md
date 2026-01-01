@@ -2,7 +2,7 @@
 
 This repo lists all of my contributions to open-source projects and endeavours. Open-source projects are projects that are available for members of the public to duplicate and modify (with permission). This is a great way for people who would like to work in the data industry to gain experience in contributing to projects, especially since many roles will involve working collaboratively in teams.
 
-***UPDATED AS OF DECEMBER 31, 2025***
+***UPDATED AS OF JANUARY 01, 2026***
 
 # Table of Contents
 * [Contributions on GitHub Repos](#contributions-on-github-repos)
@@ -20,7 +20,7 @@ This repo lists all of my contributions to open-source projects and endeavours. 
 
 Many repos on GitHub are open-source, meaning that GitHub members have the ability to suggest and contribute changes to a repo. Examples include, but are not limted to, debugging the source code, adding content to a README file, etc. To oversimplify the process of contributing to an open-source repo, one will first have to fork the repo (i.e., duplicate the repo into your own GitHub profile), make modifications to the duplicated repo, then request the owner of the original repo to make your desired modifications to the original repo (this is known as a pull request, where you are requesting the owner to merge your changes into the original repo). Of course, results may vary, and not all pull requests will be accepted.
 
-***Updated as of December 31, 2025***
+***Updated as of January 01, 2026***
 
 ## ✅ Completed ✅
 
@@ -104,11 +104,11 @@ Markdown code for the "Spatial Software" section after my modification:
 
 Ovio is an online platform that connects developers with potential open-source contributors. In other words, it is a platform that allows one to contribute to real-world projects similar to how GitHub users can contribute to open-source repos.
 
-***Updated as of December 31, 2025***
+***Updated as of January 01, 2026***
 
 ## ✅ Completed ✅
 
-None as of December 31, 2025
+None as of January 01, 2026
 
 ---
 
@@ -123,7 +123,7 @@ None as of December 31, 2025
 
 # Mapping Contributions
 
-***Updated as of December 31, 2025***
+***Updated as of January 01, 2026***
 
 ## Missing Maps
 
@@ -135,9 +135,9 @@ Summary of contributions:
 
 | Metric  | Score |
 | ------------- | ------------- |
-| Number of swipes  | 12,065 |
-| Total area swiped (sq. km)  | 4508 |
-| Total projects  | 229 |
+| Number of swipes  | 12,185 |
+| Total area swiped (sq. km)  | 4509 |
+| Total projects  | 230 |
 | Organizations supported  | 6  |
 
 
@@ -147,19 +147,19 @@ Summary of contributions:
 
 Summary of contributions:
 
-Total countries: **64** 
+Total countries: **66** 
 
 | Country  | Number of Changes |
 | ------------- | ------------- |
 | Canada | 2291 |
 | Mexico | 310 |
+| Trinidad and Tobago  | 269 |
 | Japan  | 170 |
 | India  | 156 |
 | Philippines  | 152 |
 | Mozambique  | 129 |
 | El Salvador  | 124 |
 | Jamaica  | 115 |
-| Trinidad and Tobago  | 113 |
 | Cayman Islands  | 89 |
 | Russia  | 69 |
 | Belize  | 67 |
@@ -175,6 +175,7 @@ Total countries: **64**
 | Greenland  | 25 |
 | Portugal  | 30 |
 | Sweden  | 30 |
+| Guernsey  | 25 |
 | Jersey  | 25 |
 | Uganda  | 23 |
 | St. Pierre and Miquelon  | 20 |
@@ -182,16 +183,18 @@ Total countries: **64**
 | Faroe Islands  | 18 |
 | Georgia  | 18 |
 | Ghana  | 18 |
-| Guernsey  | 25 |
+| Georgia  | 18 |
 | Madagascar  | 16 |
 | Honduras  | 15 |
 | Kenya  | 15 |
 | Brunei  | 14 |
 | Tunisia  | 14 |
 | United Kingdom  | 13 |
+| Grenada | 12 |
 | Finland  | 11 |
 | Isle of Man | 11 |
 | Sri Lanka  | 11 |
+| Aruba  | 10 |
 | Ethiopia  | 10 |
 | Panama  | 10 |
 | Greece  | 8 |
