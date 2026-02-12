@@ -2,7 +2,7 @@
 
 This repo lists all of my contributions to open-source projects and endeavours. Open-source projects are projects that are available for members of the public to duplicate and modify (with permission). This is a great way for people who would like to work in the data industry to gain experience in contributing to projects, especially since many roles will involve working collaboratively in teams.
 
-***Updated as of February 11, 2026***
+***Updated as of February 12, 2026***
 
 # Table of Contents
 * [Contributions on GitHub Repos](#contributions-on-github-repos)
@@ -20,7 +20,7 @@ This repo lists all of my contributions to open-source projects and endeavours. 
 
 Many repos on GitHub are open-source, meaning that GitHub members have the ability to suggest and contribute changes to a repo. Examples include, but are not limted to, debugging the source code, adding content to a README file, etc. To oversimplify the process of contributing to an open-source repo, one will first have to fork the repo (i.e., duplicate the repo into your own GitHub profile), make modifications to the duplicated repo, then request the owner of the original repo to make your desired modifications to the original repo (this is known as a pull request, where you are requesting the owner to merge your changes into the original repo). Of course, results may vary, and not all pull requests will be accepted.
 
-***Updated as of February 11, 2026***
+***Updated as of February 12, 2026***
 
 ## ✅ Completed ✅
 
@@ -104,11 +104,11 @@ Markdown code for the "Spatial Software" section after my modification:
 
 Ovio is an online platform that connects developers with potential open-source contributors. In other words, it is a platform that allows one to contribute to real-world projects similar to how GitHub users can contribute to open-source repos.
 
-***Updated as of February 11, 2026***
+***Updated as of February 12, 2026***
 
 ## ✅ Completed ✅
 
-None as of February 11, 2026
+None as of February 12, 2026
 
 ---
 
@@ -123,7 +123,7 @@ None as of February 11, 2026
 
 # Mapping Contributions
 
-***Updated as of February 11, 2026***
+***Updated as of February 12, 2026***
 
 ## Missing Maps
 
@@ -135,9 +135,9 @@ Summary of contributions:
 
 | Metric  | Score |
 | ------------- | ------------- |
-| Number of swipes  | 13,753 |
+| Number of swipes  | 13,864 |
 | Total area swiped (sq. km)  | 4985 |
-| Total projects  | 252 |
+| Total projects  | 253 |
 | Organizations supported  | 6 |
 
 
@@ -151,7 +151,7 @@ Total countries: **89**
 
 | Country  | Number of Changes |
 | ------------- | ------------- |
-| Canada | 2640 |
+| Canada | 2698 |
 | China | 366 |
 | Mexico | 310 |
 | Trinidad and Tobago  | 269 |
