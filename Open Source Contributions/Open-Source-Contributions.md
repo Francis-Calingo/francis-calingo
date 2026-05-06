@@ -166,8 +166,8 @@ Total countries: **89**
 | Uzbekistan  | 118 |
 | Jamaica  | 115 |
 | Cayman Islands  | 89 |
+| The Bahamas  | 73 |
 | Russia  | 69 |
-| The Bahamas  | 68 |
 | Tajikistan  | 68 |
 | Belize  | 67 |
 | Estonia  | 57 |
