@@ -69,10 +69,14 @@
 
   <b>Data Visualization Tools</b>
     <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=plastic" alt="Plotly Badge"/>
-    <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=fff&style=plastic" alt="ArcGIS Badge"/>
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black" alt="Matplotlib Badge"/>
     <img src="https://img.shields.io/badge/Seaborn-%23ffffff.svg?logo=Seaborn&logoColor=aquagreen" alt="Seaborn Badge"/>
      <img src="https://img.shields.io/badge/tableau-navy?logo=Tableau&logoColor=white" alt="Tableau Badge"/>
+  
+  <b>Geospatial Tools</b>
+    <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=fff&style=plastic" alt="ArcGIS Badge"/>
+    <img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/> 
+
 
   <b>Database Management</b>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="MicrosoftSQLServer Badge"/>
@@ -89,7 +93,6 @@
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
 
   <b>Other tools</b>
-  <img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" alt="Canva Badge"/>
 </div>
