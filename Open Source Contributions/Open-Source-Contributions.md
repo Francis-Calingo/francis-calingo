@@ -135,9 +135,9 @@ Summary of contributions:
 
 | Metric  | Score |
 | ------------- | ------------- |
-| Number of swipes  | 17,463 |
-| Total area swiped (sq. km)  | 5472 |
-| Total projects  | 332 |
+| Number of swipes  | 17,473 |
+| Total area swiped (sq. km)  | 5473 |
+| Total projects  | 333 |
 | Organizations supported  | 8 |
 
 
