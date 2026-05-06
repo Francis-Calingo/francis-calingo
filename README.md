@@ -44,7 +44,7 @@
     </ul>
     <li><b>Certificates and Upskilling:</b></li>
     <ul>
-    <li><a href="https://watspeed.uwaterloo.ca/programs-and-courses/program-data-science.html">Microcredential, </a> // University of Toronto, Remote (Expected  May 2026) </li>
+    <li><a href="https://schoolofcities.utoronto.ca/learning-sofc/urban-data-professional-advancement/urban-data-analytics-and-visualization/">Micro-credential, Urban Data Analytics and Visualization</a> // University of Toronto School of Cities, Remote (Expected  May 2026) </li>
     <li><a href="https://watspeed.uwaterloo.ca/programs-and-courses/program-data-science.html">Certificate Program, Data Science</a> // University of Waterloo, Remote (Completed April 2025) </li>
     <li>IBM Data Science Professional Certificate // IBM, Online via Coursera <a href="https://www.coursera.org/account/accomplishments/specialization/S03A5IS9AEA7">(Completed March 2025)</a></li>
     <li><a href="https://m2mtechconnect.com/programs/datatalent/jobseekers">DataTalent Upskilling Program</a> // M2M Tech, Online (Completed February 2025)</li>
