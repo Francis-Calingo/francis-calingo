@@ -77,6 +77,7 @@
   <b>Geospatial Tools & Libraries</b>
     <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=fff&style=plastic" alt="ArcGIS Badge"/>
     <img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/GeoPandas-139C5A?logo=geopandas&logoColor=fff&style=plastic"/>
 
   <b>Database Management</b>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="MicrosoftSQLServer Badge"/>
