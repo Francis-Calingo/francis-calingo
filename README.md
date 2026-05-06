@@ -61,23 +61,22 @@
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white"/>
 
-  <b>Data Science and Analysis Tools</b>
+  <b>Data Science and Analysis Tools & Libraries</b>
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=plastic" alt="SciPy Badge"/>
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=plastic" alt="scikit-learn Badge"/>
     <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=plastic" alt="Pandas Badge"/>
     <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic" alt="NumPy Badge"/>
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
 
-  <b>Data Visualization Tools</b>
+  <b>Data Visualization Tools & Libraries</b>
     <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=plastic" alt="Plotly Badge"/>
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black" alt="Matplotlib Badge"/>
     <img src="https://img.shields.io/badge/Seaborn-%23ffffff.svg?logo=Seaborn&logoColor=aquagreen" alt="Seaborn Badge"/>
      <img src="https://img.shields.io/badge/tableau-navy?logo=Tableau&logoColor=white" alt="Tableau Badge"/>
   
-  <b>Geospatial Tools</b>
+  <b>Geospatial Tools & Libraries</b>
     <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=fff&style=plastic" alt="ArcGIS Badge"/>
     <img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/> 
-
 
   <b>Database Management</b>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="MicrosoftSQLServer Badge"/>
