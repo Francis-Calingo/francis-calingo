@@ -151,7 +151,7 @@ Total countries: **89**
 
 | Country  | Number of Changes |
 | ------------- | ------------- |
-| Canada | 3423 |
+| Canada | 3436 |
 | China | 366 |
 | Mexico | 310 |
 | Trinidad and Tobago  | 269 |
