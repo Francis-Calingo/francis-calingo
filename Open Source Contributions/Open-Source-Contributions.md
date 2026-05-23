@@ -137,7 +137,7 @@ Summary of contributions:
 | ------------- | ------------- |
 | Number of swipes  | 18,035 |
 | Total area swiped (sq. km)  | 5547 |
-| Total projects  | 347 |
+| Total projects  | 348 |
 | Organizations supported  | 9 |
 
 
