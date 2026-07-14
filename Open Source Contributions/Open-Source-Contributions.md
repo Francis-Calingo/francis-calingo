@@ -135,9 +135,9 @@ Summary of contributions:
 
 | Metric  | Score |
 | ------------- | ------------- |
-| Number of swipes  | 19,545 |
-| Total area swiped (sq. km)  | 5751 |
-| Total projects  | 382 |
+| Number of swipes  | 19,650 |
+| Total area swiped (sq. km)  | 5764 |
+| Total projects  | 385 |
 | Organizations supported  | 10 |
 
 
@@ -151,7 +151,7 @@ Total countries: **89**
 
 | Country  | Number of Changes |
 | ------------- | ------------- |
-| Canada | 3745 |
+| Canada | 3749 |
 | China | 366 |
 | Mexico | 310 |
 | Trinidad and Tobago  | 269 |
